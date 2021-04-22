@@ -4,13 +4,15 @@
 /node_modules
 /.pnp
 .pnp.js
+/.github
+/.firbase
+.firebaserc
 
 # testing
 /coverage
 
 # production
 /build
-.github
 
 # misc
 .DS_Store
